@@ -1,0 +1,8 @@
+No negative answers.
+Answer must be a whole number.
+No "0 + 0", "0 - 0", or "0 x 0" equations.
+No 0 in division or multiplication equations.
+Maximum first number for addition and subtraction is 28.
+Maximum second number for addition and subtraction is 20.
+Maximum number for multiplication is 12.
+Maximum divisor is 12. (Example: 81 / [9] = 9)
